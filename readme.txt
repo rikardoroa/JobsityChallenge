@@ -19,3 +19,6 @@ in whatsapp
 
 Note: Prior using the whatsapp messages, in the twilio account( I used my personal account)
 need to be configure the phone number of the user. for the moment i have mine.
+
+
+Note: If you Want be receiver from notifications just add the contact number  +415523886 from twilio and then write the msj "join-easy-composition" via whatsapp
