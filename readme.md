@@ -25,7 +25,9 @@ in whatsapp
 
 
 ## Note
-* the zip folder contains the twilio credentials, i am sharing this for validation for the project only.
+* the zip folder contains the twilio credentials,connection string, sender and receiver whatsappnumber, i am sharing this for validation for the project only.
+* I configure the receiver number with my phone number because its directly atached to my twilio account, for the purpose of this test
+* if another twilio account is used, the phone number of the receiver must be they own number
 
 
 ## Note
@@ -45,9 +47,19 @@ in whatsapp
      * 2. export TWILIO_ACCOUNT_SID
      * 3. export PATH=$PATH:$TWILIO_ACCOUNT_SID/bin
      * 4. export TWILIO_AUTH_TOKEN
-     * 4. TWILIO_AUTH_TOKEN=mytoken
-     * 5. export PATH=$PATH:$TWILIO_AUTH_TOKEN/bin
+     * 5. TWILIO_AUTH_TOKEN=mytoken
+     * 6. export PATH=$PATH:$TWILIO_AUTH_TOKEN/bin
+     * 7. export CON_STRING
+     * 8. CON_STRING =myconstring
+     * 9. export PATH=$PATH:$CON_STRING/bin
+     * 10. export SENDER
+     * 11. SENDER=whatsappsendernumber
+     * 12. export PATH=$PATH:$SENDER/bin
+     * 13. export RECEIVER
+     * 14. SENDER=whatsappreceivernumber
+     * 15. export PATH=$PATH:$RECEIVER/bin
 
+#####  I truly recommend this video for the configuration of enviroment variables in linux : https://www.youtube.com/watch?v=NvAYH5Qu_YQ
 
 
 ## Configure Variable Enviroments in windows:
@@ -55,6 +67,9 @@ in whatsapp
 * --> edit enviroment variables in windows
 * --> add variable name TWILIO_ACCOUNT_SID with the key sid value
 * --> add variable name TWILIO_AUTH_TOKEN with the key auth value
+* --> add variable name CON_STRING with the connection value
+* --> add variable name SENDER with the sender number value value
+* --> add variable name RECEIVER with the receiver number value value
 * --> reboot your computer
 
 
