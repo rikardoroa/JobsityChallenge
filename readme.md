@@ -24,6 +24,14 @@ in whatsapp
 * If you Want be receiver from notifications just add the contact number  +415523886 from twilio and then write the msj "join easy-composition" via whatsapp
 
 
+## Note
+* the zip folder contains the twilio credentials, i am sharing this for validation for the project only.
+
+
+## Note
+
+* for Google big query validations in another user account, please change the database and the credentials in the code.
+
 ## Configure Variable Enviroments in Linux:
 
 * Run Command vim .bashrc
@@ -47,3 +55,5 @@ in whatsapp
 
 
 ######  for more information visit: https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html
+
+###### enjoy!
