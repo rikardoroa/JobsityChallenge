@@ -59,6 +59,9 @@ in whatsapp
      * 14. SENDER=whatsappreceivernumber
      * 15. export PATH=$PATH:$RECEIVER/bin
 
+
+#####  after edit vim .bashrc with nano, save the file as follows with this command :wq!
+
 #####  I truly recommend this video for the configuration of enviroment variables in linux : https://www.youtube.com/watch?v=NvAYH5Qu_YQ
 
 
