@@ -41,10 +41,10 @@ in whatsapp
 
 ## Configure Variable Enviroments in windows:
 
-**1.edit enviroment variables in windows**
-**2.add variable name TWILIO_ACCOUNT_SID with the key sid value**
-**3.add variable name TWILIO_AUTH_TOKEN with the key auth value**
-**4.reboot your computer**
+* --> edit enviroment variables in windows
+* --> add variable name TWILIO_ACCOUNT_SID with the key sid value
+* --> add variable name TWILIO_AUTH_TOKEN with the key auth value
+* --> reboot your computer
 
 
 ######  for more information visit: https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html
