@@ -31,11 +31,11 @@ in whatsapp
 * Run Command vim .bashrc
 * add enviroment variables with export command like this:
 
- *TWILIO_ACCOUNT_SID=mysid*
- *export TWILIO_ACCOUNT_SID*
- *export PATH=$PATH:$TWILIO_ACCOUNT_SID/bin*
- *TWILIO_AUTH_TOKEN=mytoken*
- *export TWILIO_AUTH_TOKEN*
+     * 1. TWILIO_ACCOUNT_SID=mysid
+     * 2. export TWILIO_ACCOUNT_SID
+     * 3. export PATH=$PATH:$TWILIO_ACCOUNT_SID/bin
+     * 4. TWILIO_AUTH_TOKEN=mytoken
+     * 5. export TWILIO_AUTH_TOKEN
 
 
 
