@@ -1,8 +1,6 @@
 ## JobsityChallenge
 
-###### This Backend Script uses Apache Airflow for Automatation 
-###### for Transformations and ingesting a CSV File from google Drive and insert data
-###### into a Google Cloud Database that is previous configure into Google  Big Query
+###### This Backend Script uses Apache Airflow for Automatation for Transformations and ingesting a CSV File from google Drive and insert data into a Google Cloud Database that is previous configure into Google  Big Query
 
 
 * Scalability -> This Script uses a google big query ingestion, so it can be added more that 100 millions registers
