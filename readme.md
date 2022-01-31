@@ -28,14 +28,14 @@ in whatsapp
 
 ## Configure Variable Enviroments in Linux:
 
-* 1. Run Command vim .bashrc
-* 2. add enviroment variables with export command like this:
+* Run Command vim .bashrc
+* add enviroment variables with export command like this:
 
-**TWILIO_ACCOUNT_SID=mysid**
-**export TWILIO_ACCOUNT_SID**
-**export PATH=$PATH:$TWILIO_ACCOUNT_SID/bin**
-**TWILIO_AUTH_TOKEN=mytoken**
-**export TWILIO_AUTH_TOKEN**
+* 1. TWILIO_ACCOUNT_SID=mysid
+* 2. export TWILIO_ACCOUNT_SID
+* 3. export PATH=$PATH:$TWILIO_ACCOUNT_SID/bin
+* 4. TWILIO_AUTH_TOKEN=mytoken
+* 5. export TWILIO_AUTH_TOKEN
 
 
 
@@ -47,4 +47,4 @@ in whatsapp
 **4.reboot your computer**
 
 
-# for more information visit: https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html
+######  for more information visit: https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html
