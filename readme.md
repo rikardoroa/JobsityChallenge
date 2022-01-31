@@ -32,7 +32,7 @@ in whatsapp
 
 ## Note
 
-* for Google big query validations in another user account and instance, please change the database and the credentials in the code.
+* for Google big query validations in another user account and instance, please change enviroment value of connection string.
 
 ## Note
 
