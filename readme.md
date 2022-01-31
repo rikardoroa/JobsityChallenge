@@ -30,7 +30,11 @@ in whatsapp
 
 ## Note
 
-* for Google big query validations in another user account, please change the database and the credentials in the code.
+* for Google big query validations in another user account and instance, please change the database and the credentials in the code.
+
+## Note
+
+* if this project requires another twilio account for test purposes I truly suggest this link:https://www.twilio.com/blog/enviar-mensaje-whatsapp-30-segundos-con-python
 
 ## Configure Variable Enviroments in Linux:
 
